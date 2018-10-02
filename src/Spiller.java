@@ -30,4 +30,8 @@ public class Spiller {
     public String getNavn() {
         return navn;
     }
+
+    public void setNavn(String navn) {
+        this.navn = navn;
+    }
 }
